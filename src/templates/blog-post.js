@@ -31,10 +31,13 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             style={{
               ...scale(-1 / 5),
               display: `block`,
+              marginTop: rhythm(0.5),
               marginBottom: rhythm(1),
+              lineHeight: 1.5,
             }}
           >
             {post.frontmatter.date}
+            {post.frontmatter.showLocation && (<div>{post.frontmatter.location}</div>)}
           </p>
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
@@ -95,6 +98,8 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        location,
+        showLocation
       }
     }
   }
