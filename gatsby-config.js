@@ -3,7 +3,7 @@ module.exports = {
     title: `Et cetera`,
     author: {
       name: `Andrew Bihl`,
-      summary: `who lives and works in San Francisco making useful things.`,
+      summary: `who lives and works in San Francisco.`,
     },
     description: ``,
     pathPrefix: "/andrewbihl.github.io",
