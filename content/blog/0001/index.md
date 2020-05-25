@@ -22,4 +22,4 @@ I haven't been to the office in months and I've been living with my family in Vi
 
 Overall, it's been like a summer break; it feels as if life has been on pause. But I think that's over–time to set some goals.
 
-![Summertime](IMG_0273.png)
+![Summertime](virginia.jpg)

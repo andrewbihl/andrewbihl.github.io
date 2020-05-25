@@ -6,6 +6,7 @@ location: San Diego, CA
 showLocation: false
 tags: [learning, productivity]
 article: true
+thumbnail: ./highlights_ddai.png
 ---
 
 > And science is, to quote your words, nothing but the 'determination to establish differences.' Its essence couldn't be defined more accurately. For us, the men of science, nothing is as important as the establishment of differences; science is the art of differentiation.
@@ -74,7 +75,7 @@ Depending on the situation, this step and the last might go hand-in-hand. It dep
 ## The system
 
 
-![Excerpt with highlights from Designing Data Intensive Applications](highlights_DDAI.png)
+![Excerpt with highlights from Designing Data Intensive Applications](highlights_ddai.png)
 
 My annotation system highlights statements belonging to one of a limited set of categories in order to make clear the structure of what is being said. For expository writing, those categories are:
 - points
