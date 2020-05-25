@@ -1,10 +1,10 @@
 ---
 title: Back to it
-date: "2020-05-24T17:00:00Z"
-description: "First post"
-location: "San Diego, CA"
+date: 2020-05-24T17:00:00Z
+description: First post
+location: San Diego, CA
 showLocation: true
-tags: ["reflection"]
+tags: [reflection]
 article: false
 ---
 

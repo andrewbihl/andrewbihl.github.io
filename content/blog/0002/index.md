@@ -1,10 +1,10 @@
 ---
 title: My highlighting system for reading technical content
-date: "2020-05-25T11:00:00Z"
-description: "How I understand and retain information from expository writing"
-location: "San Diego, CA"
+date: 2020-05-25T11:00:00Z
+description: How I understand and retain information from expository writing
+location: San Diego, CA
 showLocation: false
-tags: ["learning", "productivity"]
+tags: [learning, productivity]
 article: true
 ---
 
