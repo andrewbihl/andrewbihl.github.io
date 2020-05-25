@@ -63,9 +63,9 @@ Categories are almost always imperfect<sup>2</sup>. This doesn't diminish their 
 Depending on the situation, this step and the last might go hand-in-hand. It depends what you are trying to do. Often, the more involved the goal you have, the more of step 3 you'll need to do. In the example of learning about types of programming languages, you could have a number of different goals. Some examples could be:
 
 - Decide on a programming language to use.
-    - This one probably doesn't require a huge amount of nuance, so you might not dive too deep into step 3.
+    - This probably doesn't require a huge amount of nuance, so you might not dive too deep into step 3.
 - Write a compiler
-    - This one lends itself to helping you learn #3. It's likely worth diving into the "Application" step early.
+    - This application lends itself to helping you learn #3. It's likely worth diving into the "Application" step early.
 - Write a textbook on programming languages
     - This is going to require a lot of nuance, so application will probably not begin until you've done a lot of step 3.
 
@@ -83,7 +83,7 @@ My annotation system highlights statements belonging to one of a limited set of 
 - value
 - background
 
-### Point (P): a statement which is part of the main idea set, including explaining the meaning of an earlier point
+### Point: a statement which is part of the main idea set, including explaining the meaning of an earlier point
 
 A point is a statement which answers the question “what is the author trying to say?” It requires elaboration. It may require convincing the reader of its accuracy; it may require explaining its significance; it may have supporting examples, which can serve either of the two purposes just mentioned.
 
@@ -91,26 +91,39 @@ To clarify what makes a point, consider this scenario: you are writing to an aud
 
  In this circumstance, you provide no background information, no evidence, no justification of the statements or their value—you simply state the main thread of idea so that you wish to portray. You simply provide a list of points.
 
-### Point limitation (L): acknowledging challenges
+### Point limitation: acknowledging challenges
 
 This is similar to point. It’s like explaining an earlier point (which would still be categorized as a point) except that it refines or restricts the idea. It admits failures, exceptions, limitations, and counterpoints. It can also describe unanswered questions and areas of ongoing inquiry. Limitations provide clarity on the bounds of an idea.
 
 In technical writing, I like to use this category for descriptions of drawbacks of a given approach or technology. 
 
-### Evidence (E): convincing the reader of the truth of a point
+### Point evidence: convincing the reader of the truth of a point
 
-This is a statement, often in the form of an example, which serves the purpose of convincing the reader that earlier or soon-to-be-revealed ideas are true and accurate.
+Evidence is a statement, often in the form of an example, which serves the purpose of convincing the reader that earlier or soon-to-be-revealed ideas are correct.
 
-### Value (V): telling the reader why the point is important or relevant
+### Value: telling the reader why the point is important or relevant
 
-This is a statement, often in the form of an example, which serves the function of convincing the reader that the point is relevant and valuable information. This may be historical context or instances where the point was used by others. Often it is directly telling the user how to apply the information.
+This is a statement, often in the form of an example, which serves the function of convincing the reader that the point is relevant and useful information. This may be historical context or instances where the point was used by others. Often it is directly telling the user how to apply the information.
 
 
-### Background (B): necessary prior knowledge
+### Background: necessary prior knowledge
 
 This is necessary prior knowledge which is provided so that other statements will make sense but which is not part of the above categories. In many books, this may take the form of a reminder of content found earlier in the book, which in its own chapter would be considered points. Later on, however, the author will assume the reader accepts his ideas in order to permit him to build on top of them. 
 
 I find that it is helpful to use this category for definitions even if the term has just been introduced for the first time. While it may not be knowledge that the author expects the reader to already have, it is not up for debate or requiring justification. That is, the definition is not a point—if the author could be sure the reader already had this information, it could be excluded from the writing.
+
+
+## Applying the system
+
+By following this system, I believe it is substantially easier to progress through techincal reading, especially dense material. You should find it gets easier over time to see how the statement serves the author's overall purpose and quickly annotate it. 
+
+Finally, some details on how to implement this in your own reading:
+- You can annotate by highlighting, or by writing a letter near the statements in the margins–whatever works for you.
+- A sentence can have more than one statement.
+- Not all statements should be highlighted. Highlight those that are important to you, and if a block of statements with the same purpose are together just highlight a summarizing point or the first one.
+- Adjust the details of how you categorize as needed.
+- Pay close attention to those statements that you're not sure *how* to categorize. You may learn by figuring it out.
+- Let me know if you get use out of this, I'd love to hear about it.
 
 
 ----
