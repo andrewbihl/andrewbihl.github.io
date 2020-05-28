@@ -14,9 +14,9 @@ I write a lot of notes when I work. This is a known fact at my software engineer
 
 ## Most fall short
 
-I've never worked at a place that had figured out quite what to do about written knowledge. Some were better than others, but from my perspective none had a solid system for sharing knowledge within the company. Most had a good setup for one or two particular types of writing, but other categories were neglected.
+I've never worked at a place that had figured out quite what to do about written knowledge. Some were better than others, but from my perspective none had solid systems for sharing knowledge within the company. Most had a good setup for one or two particular types of writing, but other categories were neglected.
 
-I don't think I'm just a pessimistic jerk. Rather, I think managing written information is a hard challenge worth working on. Furthermore, based on forum comments, interactions with coworkers, and online articles, I think I'm more of an optimist than most when it comes to improving the situation. Common refrains I see from engineers are:
+I don't think I'm just a pessimistic jerk. Rather, I think managing written information is a hard challenge worth working on. Furthermore, based on forum comments, interactions with coworkers, and online articles, I think I'm more of an optimist than many when it comes to improving the situation. Common refrains I see from engineers are:
 
 - documentation is never correct
 - documentation is never up-to-date
