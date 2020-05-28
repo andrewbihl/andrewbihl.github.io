@@ -1,7 +1,12 @@
-ul {
+ul, ol {
     padding-left: 30px;
 }
 
-li {
-    margin-bottom: 8px;
+blockquote {
+    margin-left: 15px;
 }
+
+li {
+    margin: 8px, 8px;
+}
+

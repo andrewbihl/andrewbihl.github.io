@@ -15,14 +15,14 @@ thumbnail: ./highlights_ddai.png
 
 ## Summary
 
-In my experience, much of learning technical information comes down to drawing categories and relationships. I've found that by highlighting statements as I read by their purpose, I can more quickly understand the information being presented. It also helps me stay focused and see which statements I didn't comprehend on first pass. I assign statements one of five functions:
+In my experience, much of learning technical information comes down to drawing categories and relationships. I've found while reading that by highlighting statements according to their purpose, I can more quickly understand the information being presented. It also helps me stay focused and see which statements I didn't comprehend on first pass. I assign statements to one of five functions:
 - points
 - limitation
 - evidence
 - value
 - background
 
-These functions align with a more general view of learning in which the functions contribute to a step in the learning process.
+These functions align with a more general view of learning in which the functions contribute to a step in my learning process.
 
 ## Motivation: the learning process
 
