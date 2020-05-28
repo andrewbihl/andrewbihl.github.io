@@ -1,6 +1,6 @@
 ---
 title: How I think about documentation and knowledge sharing
-date: 2020-05-26T18:00:00Z
+date: 2020-05-27T23:00:00Z
 description: I'm tired of digging around Slack
 location: Waynesboro, VA
 showLocation: false
@@ -132,11 +132,11 @@ Things get saved in the wrong place, or there is no place for them and they get 
 
 So my first step would be this: before seeking out what new types of writing we'd like to handle, let's make sure we are organizing the writing we have. If there is something the team does well, put walls around it so that it doesn't get buried. Make the rules clear. Write a README telling everyone what goes in there and what does not. 
 
-If the writing people produce to share knowledge is lost to poor organization, they're not going to keep writing.
+If the writing people produce is lost to poor organization, they're not going to keep writing.
 
 ----
 
 1. I could write an entire article on this point, but let's just say that *any* real-world application is going to entail things that cannot be easily traced through source code, not to mention if you have a ["microservice architecture"](https://www.youtube.com/watch?v=y8OnoxKotPQ) crossing the network at every turn. 
 
 2. Any effort dedicated is a tradeoff, so admittedly there must be some cases when a solution is worth the effort. From my experience, however, there are lower-hanging fruits to be grabbed.
-3. Consider not just the subject itself but also the purpose of the writing. An example is to classify as "tutorial", "how-to", "explanation", and "reference" as seen here: https://documentation.divio.com  
+3. Consider not just the subject matter but also the purpose of the writing. An example is to classify as "tutorial", "how-to", "explanation", and "reference" as seen here: https://documentation.divio.com 
