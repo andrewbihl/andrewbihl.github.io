@@ -57,7 +57,6 @@ const BlogIndex = ({ data, location }: PageProps<Data>) => {
               </h3>
               <small>{node.frontmatter.date}</small>
             </header>
-            {node.frontmatter.thumbnail && (<Img fluid={node.frontmatter.thumbnail.childImageSharp.fluid} />)}
             <section>
               <p
                 dangerouslySetInnerHTML={{
@@ -65,6 +64,7 @@ const BlogIndex = ({ data, location }: PageProps<Data>) => {
                 }}
               />
             </section>
+            {node.frontmatter.thumbnail && (<Img fluid={node.frontmatter.thumbnail.childImageSharp.fluid} />)}
           </article>
         )
       })}
@@ -94,7 +94,7 @@ export const pageQuery = graphql`
             description
             thumbnail {
               childImageSharp {
-                fluid(maxWidth: 800) {
+                fluid(maxWidth: 1000) {
                   ...GatsbyImageSharpFluid
                 }
               }
