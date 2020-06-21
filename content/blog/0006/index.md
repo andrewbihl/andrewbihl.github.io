@@ -1,6 +1,6 @@
 ---
-title: TBD
-description: TBD
+title: The gap between learning programming and software development
+description: My struggle to learn software development
 date: 2020-06-21T13:00:00Z
 location: Waynesboro, VA
 showLocation: false
