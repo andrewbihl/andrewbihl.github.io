@@ -73,4 +73,6 @@ Still, I feel that the curriculum of the bootcamp was such that I could have had
 
 Nonetheless, the experience taught me a great deal about learning. Before university I'd not developed the skillls and habits to learn difficult things; the pace and scope of my courses was unlike anything I'd had in my public schooling, and I'd never had to struggle with anything academic other than my own inattention.
 
-I developed a mental framework of how to approach learning new territory, how to deal with uncertainty, and how to make consistent progress in difficult things. In the same way that learning iOS development provided a framework to learn other software skills, the process taught me about self-teaching and skill development.
+From this unpleasant experience I acquired a mental framework of how to approach learning in new territory, how to deal with uncertainty, and how to make consistent progress in difficult things. In the same way that learning iOS development provided a framework to learn other software skills, the process taught me about self-teaching and skill development.
+
+In the next article, I'll try to lay out some helpful learnings. I'm never sure of how much these things help other people, because I am not sure how similar or different people's learning process is. But hopefully I can put something practically useful together, and maybe someone in the early stages of their degree will find it.
