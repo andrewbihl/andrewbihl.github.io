@@ -20,11 +20,12 @@ It took me a long time to see how this applied to me.
 
 In an earlier post (which I wrote an hour ago) I described how difficult it was for me to come around to admitting and forgiving my own faults and mistakes. Before that, I believed I could completely free myself of the challenges I face when trying to reach my goals. I felt that my habits, my stressors, my distractions, and my personality could all be molded and that I was marching on a linear path to becoming a perfectly productive person. 
 
-The underlying belief was that discipline was like some universally valuable muscle. The more I willed myself to do difficult things, the more easily I would be able to accomplish all things. Unfortunately, I've observed two things that invalidate that thinking:
+The underlying belief was that discipline was like some valuable, universal muscle. The more I willed myself to do difficult things, the more easily I would be able to accomplish all things. Unfortunately, I've observed some things that invalidate that thinking:
 - First, such discipline and motivation isn't perfectly transferrable between domains. Otherwise anyone who displayed great work ethic as an athlete would show the same ethic as a student, as a romantic partner, as a member of their household, etc.
 - Second, there's no finish line where things get easy. If you stop maintaining a habit, you'll just revert back to your old self. 
+- Third, we're all on a budget. While we might be able to increase our capacity, everyone has to elect to spend their limited energy and discipline on some things and not others.
 
-While it hurts to give up on that belief, doing so has allowed me to resort to much more practical ways of managing myself. Because I am less inclined to see the struggle as an end in itself, I elect to make things easier for myself when possible, without shame or concern for why I feel the need to do so. 
+While it hurts to give up on the prior belief, doing so has allowed me to resort to much more practical ways of managing myself. Because I am less inclined to see the struggle as an end in itself, I elect to make things easier for myself when possible, without shame or concern for why I feel the need to do so. 
 
 For example, I've often had troubles waking up in the morning. I've tried waking up at different times, sleeping for different times, using a different alarm, and various other things. These things have had various effects on when I awake or how I feel in the first few hours of the day, but they've never changed the fact that it's a struggle for me to go from awake to being out of bed.
 
@@ -36,7 +37,7 @@ A younger me would have summoned up the Nike slogan: *just do it*. Let pride and
 
 But now I ask, *what is the goal?* Do I need to transform my personality such that I  eagerly spring out of bed like clockwork? Or do I just need to get out of bed?
 
- Today, I see the goal for what it is, which is not some masochistic demonstration of will-power, but to get up. It doesn't pain me to admit that getting up is a struggle for me, and I have no insecurities about my capacity for discipline. So I turn to a simpler solution: just move my phone away from the bed. 
+ Today, I see the goal for what it is, which is not some masochistic demonstration of will-power, but to get up. It doesn't pain me to admit that getting up is a struggle, and I have no insecurities about my capacity for discipline. So I turn to a simpler solution: just move my phone away from the bed. 
 
 It turns out, if I have to get out of bed to turn off an alarm anyway, then I am already up. It's not pleasant, but it pretty much leaves me no choice. At that point, I'm standing and it's a hell of a lot easier to get a move on.
 
@@ -46,4 +47,4 @@ The same applies to plenty of cases. If you're frustrated that you can't seem to
 
 Or you could stop buying chips. Go grocery shopping when you're not hungry, and make the decision just once. Then they won't be in your home that week. Instead of putting yourself to the test of resisting readily-available temptation, just avoid it. 
 
-If you have the self-respect and confidence to be okay with the challenges you face, then why wouldn't you make things a bit easier on yourself? It's starts with admitting your flaws, and leads to more progress over time.
+By learning to be okay with the challenges we face, we can start to look for opportunities to set ourselves up for success. It's starts with admitting one's flaws, and leads to more progress over time.
