@@ -1,6 +1,6 @@
 ---
 title: Back to it
-date: 2020-05-24T17:00:00Z
+date: 2020-05-24T17:00:00
 description: First post
 location: San Diego, CA
 showLocation: true

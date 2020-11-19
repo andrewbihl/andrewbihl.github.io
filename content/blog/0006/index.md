@@ -1,7 +1,7 @@
 ---
 title: The gap between learning programming and software development
 description: My struggle to learn software development
-date: 2020-06-21T13:00:00Z
+date: 2020-06-21T13:00:00
 location: Waynesboro, VA
 showLocation: false
 tags: [software engineering, learning, students, university]

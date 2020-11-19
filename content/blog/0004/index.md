@@ -1,6 +1,6 @@
 ---
 title: I'm not sure how to read code
-date: 2020-05-28T22:00:00Z
+date: 2020-05-28T22:00:00
 location: Waynesboro, VA
 showLocation: false
 tags: [software engineering]

@@ -1,6 +1,6 @@
 ---
 title: How I think about documentation and knowledge sharing
-date: 2020-05-27T23:00:00Z
+date: 2020-05-27T23:00:00
 description: Is anyone else tired of digging around Slack?
 location: Waynesboro, VA
 showLocation: false

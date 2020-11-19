@@ -1,6 +1,6 @@
 ---
 title: My highlighting system for reading technical content
-date: 2020-05-25T11:00:00Z
+date: 2020-05-25T11:00:00
 description: How I understand and retain information from expository writing
 location: San Diego, CA
 showLocation: false

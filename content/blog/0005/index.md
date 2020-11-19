@@ -1,7 +1,7 @@
 ---
 title: Contradictions in startup stories
 description: Wisdom on how to start a company provides little direction
-date: 2020-06-01T11:30:00Z
+date: 2020-06-01T11:30:00
 location: Waynesboro, VA
 showLocation: false
 tags: [software engineering]
