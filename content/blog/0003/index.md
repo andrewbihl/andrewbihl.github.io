@@ -94,7 +94,7 @@ It's possible many would choose this solution without having to think about it. 
 
 ## Expanding to harder cases
 
-There are plenty of types of writing which are not so easily solved for, and I'd wager that everyone can identify some type of writing for which there is no clear solution in place at all on their team. As a writer, it is frustrating to feel something is worth writing but know if there is anywhere to put it that people will see it. Usually nothing gets written in that case.
+There are plenty of types of writing which are not so easily solved for, and I'd wager that everyone can identify some type of writing for which there is no clear solution in place at all on their team. As a writer, it is frustrating to feel something is worth writing but not know if there is anywhere to put it that people will see it. Usually nothing gets written in that case.
 
 Here are some more diverse examples of useful writing:
 
