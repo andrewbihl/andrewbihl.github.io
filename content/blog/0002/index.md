@@ -75,7 +75,7 @@ Depending on the situation, this step and the last might go hand-in-hand. It dep
 ## The system
 
 
-![Excerpt with highlights from Designing Data Intensive Applications](highlights_ddai.png)
+![Excerpt with highlights from Designing Data Intensive Applications](highlights_DDAI.png)
 
 My annotation system highlights statements belonging to one of a limited set of categories in order to make clear the structure of what is being said. For expository writing, those categories are:
 - points
